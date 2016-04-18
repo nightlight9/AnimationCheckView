@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="text" format="string"/>
+    <attr name="isChecked" format="boolean"/>
+    <attr name="textSize" format="dimension"/>
+
+    <declare-styleable name="MyCheckView">
+        <attr name="text" />
+        <attr name="isChecked" />
+        <attr name="textSize" />
+    </declare-styleable>
+
+</resources>
